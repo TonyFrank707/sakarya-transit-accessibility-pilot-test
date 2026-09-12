@@ -1,0 +1,20 @@
+stop_id,stop_name,stop_lat,stop_lon
+stop_1,M1 Stop 1 (name TBD),40.8500796,30.2800082
+stop_2,M1 Stop 2 (name TBD),40.8532419,30.2884361
+stop_3,M1 Stop 3 (name TBD),40.8526519,30.3077958
+stop_4,M1 Stop 4 (name TBD),40.8504094,30.3172509
+stop_5,M1 Stop 5 (name TBD),40.8453196,30.3290306
+stop_6,M1 Stop 6 (name TBD),40.8137792,30.3606541
+stop_7,M1 Stop 7 (name TBD),40.802218,30.3669759
+stop_8,M1 Stop 8 (name TBD),40.7914204,30.3725157
+stop_9,M1 Stop 9 (name TBD),40.7843065,30.3826994
+stop_10,M1 Stop 10 (name TBD),40.7813124,30.3870604
+stop_11,M1 Stop 11 (name TBD),40.7762519,30.387804
+stop_12,M1 Stop 12 (name TBD),40.7731789,30.3951954
+stop_13,M1 Stop 13 (name TBD),40.7750044,30.4015677
+stop_14,M1 Stop 14 (name TBD),40.7806446,30.387067
+stop_15,M1 Stop 15 (name TBD),40.7845024,30.382295
+stop_16,M1 Stop 16 (name TBD),40.8012978,30.3672275
+stop_17,M1 Stop 17 (name TBD),40.8132475,30.3610054
+stop_18,M1 Stop 18 (name TBD),40.8449321,30.3298046
+stop_19,M1 Stop 19 (name TBD),40.8536742,30.2892805
